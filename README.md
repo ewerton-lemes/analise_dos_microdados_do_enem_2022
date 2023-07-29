@@ -13,4 +13,8 @@ Nesse análise foram respondidas as seguintes perguntas:
 
 --> Qual é a distribuição das cores/raças do Enem 2022 por sexo?
 
+--> Qual é distribuição de frequência das notas da prova de matemática?
+
+--> Quais são as médias e medianas das notas do enem 2022 por área?
+
 Esse notebook ainda está em construção.
