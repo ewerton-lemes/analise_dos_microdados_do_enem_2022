@@ -15,6 +15,10 @@ Nesse análise foram respondidas as seguintes perguntas:
 
 --> Qual é distribuição de frequência das notas da prova de matemática?
 
---> Quais são as médias e medianas das notas do enem 2022 por área?
+--> Quais são as médias, medianas e notas máximas e mínimas das notas do enem 2022 por área?
 
-Esse notebook ainda está em construção.
+--> Quais são os decis das notas do Enem 2022 por área?
+
+--> Quais são os devios médios absolutos, variância e desvio padrão das notas do Enem?
+
+Logo após cada pergunta está uma conclusão, obtida à partir das respostas das perguntas, com um resumo das principais informações obtidas de cada resposta.
